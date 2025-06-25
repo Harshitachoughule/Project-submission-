@@ -1,0 +1,30 @@
+Here’s a short and clean `README.md` you can use to explain and link your Figma prototype on GitHub:
+
+---
+
+```markdown
+# 🎨 Figma UI Prototype
+
+This repository contains the design prototype for a user-centered application created using Figma. The design focuses on delivering a clean, modern interface with intuitive user flow and accessible components.
+
+## 🧪 Prototype Overview
+
+The prototype showcases the following key screens:
+- ✅ Onboarding Flow  
+- 🔐 Login & Signup Interface  
+- 💬 Home & Chat Interface with AI interaction  
+- 🙍‍♂️ User Profile Page  
+- 🎨 Design System (Typography, Buttons, Colors)
+
+The aim of this prototype is to offer a seamless user experience while maintaining a visually engaging and friendly design.
+
+## 🔗 View the Figma Prototype
+
+👉 [Click here to view the Figma Prototype](https://www.figma.com/design/JAAzwMgVFZbwORTJrrcMIJ/Prototype?node-id=0-1&t=r0QCwILXMCIeHdoV-1)
+
+> **Note**: Make sure you’re logged into Figma 
+
+
+```
+
+
