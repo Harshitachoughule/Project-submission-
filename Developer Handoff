@@ -1,0 +1,67 @@
+
+### `📘 README.md – Developer Handoff: Chitchat App`
+
+#### 🧠 Overview
+
+This file serves as a developer handoff for the **Chitchat** AI chat application — designed to help users talk to a friendly AI when they feel lonely, want conversation, or need help. This Figma file includes structured design assets, component logic, and screen flows needed for smooth development.
+
+---
+
+#### 📁 File Structure (Figma Pages)
+
+1. **🔖 Cover**
+   Project name, version, designer info, and date.
+
+2. **🧩 Design System**
+
+   * Typography styles (H1–Body)
+   * Color tokens (Primary, Secondary, Background, Text)
+   * Spacing scale (4px, 8px, etc.)
+   * Button, input, badge styles
+   * Grid system & radius tokens
+
+3. **📦 Components**
+   Reusable UI elements with variants:
+
+   * `btn/primary`, `btn/secondary/hover`
+   * `input/default`, `input/focused`
+   * `card/profile`, `badge/online`
+   * All responsive, using Auto Layout
+
+4. **📱 Screens**
+   High-fidelity frames for:
+
+   * Onboarding
+   * Login / Signup
+   * Home (Chat interface)
+   * Profile Page
+
+   👉 Each frame includes layout grids and spacing visible in Inspect.
+
+5. **📤 Assets**
+   Export-ready logos, icons, and illustrations.
+   Format: `.svg` for vectors, `.png` for illustrations.
+
+---
+
+#### 🧭 Interaction Notes
+
+> All interaction guidelines are documented using Figma sticky notes or comments near components/screens.
+
+* **Buttons**: Trigger states — hover, disabled, onClick behavior
+* **Inputs**: Show border change, focus ring
+* **Nav & Layout**: Sticky navbar behavior on scroll
+* **Chat**: Typing animation, microphone interaction, auto-scroll to bottom on new message
+
+---
+
+#### 🔗 Developer Tips
+
+* Use the **Figma Inspect panel** to get paddings, typography, radius, etc.
+* All components follow naming conventions for easier mapping in code (e.g., `btn/primary`, `card/profile`)
+* Export assets at `@2x` where needed
+* Responsive rules follow 360px–1440px width range
+
+---
+
+The link for prototype - https://www.figma.com/design/wL4gLHvys8MUv8B2TgDKp0/Developer-handoff?node-id=0-1&t=pwiKuZ91HOEc6So7-1
