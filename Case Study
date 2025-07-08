@@ -1,0 +1,82 @@
+# ChitChat – Emotional AI Chat Companion
+
+**ChitChat** is a mobile app designed for users who feel lonely, need emotional support, or want to explore creative ideas through natural conversations with an AI companion. This case study showcases the complete UX design process from concept to high-fidelity prototype.
+
+---
+
+## 📌 Project Overview
+
+- **Type:** Mobile App
+- **Role:** UI/UX Designer
+- **Tools Used:** Figma, Google Fonts, Design Tokens
+- **Approach:** Behavior-Driven UX, Empathy-Focused Design
+
+---
+
+## 🎯 Problem Statement
+
+Most AI chatbots lack emotional depth and habit apps focus only on streaks. ChitChat fills the gap by offering a safe space for casual, uplifting, and creative conversations driven by emotional well-being.
+
+---
+
+## 👥 Target Users
+
+- People feeling lonely or emotionally low
+- Users seeking casual companionship or creative support
+- Young adults, remote workers, freelancers
+
+---
+
+## 🧠 UX Goals
+
+- Design emotionally engaging AI interactions
+- Build habit-forming flows using behavioral psychology
+- Keep the experience minimal, warm, and intuitive
+
+---
+
+## 🛠️ Core Features
+
+- AI chat with tone customization
+- Daily mood-based conversation triggers
+- Progress journal for saved chats and ideas
+
+---
+
+## 🧪 Process & Methods
+
+- Applied BJ Fogg’s Behavior Model & Atomic Habits concepts
+- Created low-to-high fidelity wireframes in Figma
+- Developed 3 core flows: Add Prompt, Daily Check-in, View Progress
+- Conducted user feedback rounds and iterative design updates
+
+---
+
+## 🎨 Visual Design
+
+- Soft color palette (Bule, White)
+- Rounded typography for approachability
+- Accessible layout and dark mode support
+
+---
+
+## ✅ Key Takeaways
+
+- Designing for emotion = empathy + tone, not just visuals
+- Behavior science improves UX retention
+- Simplicity wins over feature-heavy interfaces
+- Design systems boost speed and consistency
+- Feedback is critical for human-like AI design
+
+---
+
+## 🔮 Future Enhancements
+
+- Voice-based conversations
+- Mood-driven themes
+- Deeper AI memory for personalized chats
+
+---
+
+## 📂 File Structure
+
